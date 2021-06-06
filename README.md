@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello, this is **Mehmet Ali Gök**
 
-<!--
-**mehmetaligok/mehmetaligok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 I am a **Software Engineer**.
 
-Here are some ideas to get you started:
+💼 Works at [**Insider**](http://www.usensider.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏠 Lives in **Istanbul/Turkey**.
+
+🤖 Loves to develop infrastructre with **Golang** and **AWS**. 
+
+
+[Here is the my GitHub Profile.](https://github.com/mehmetaligok)
+
+[Also you can reach me from here.](https://www.linkedin.com/in/mehmet-ali-g%C3%B6k-981918107/)
