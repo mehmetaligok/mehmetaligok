@@ -2,9 +2,9 @@ Hello, this is **Mehmet Ali Gök**
 
 👨🏻‍💻 I am a **Software Engineer**.
 
-💼 Works at [**Insider**](http://www.usensider.com)
+💼 Works at [**Delivery Hero**](https://www.deliveryhero.com/)
 
-🏠 Lives in **Istanbul/Turkey**.
+🏠 Lives in **Berlin/Germany**.
 
 🤖 Loves to develop infrastructre with **Golang** and **AWS**. 
 
