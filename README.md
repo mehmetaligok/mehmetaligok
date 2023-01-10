@@ -2,11 +2,11 @@ Hello, this is **Mehmet Ali Gök**
 
 👨🏻‍💻 I am a **Software Engineer**.
 
-💼 Works at [**Delivery Hero**](https://www.deliveryhero.com/)
+💼 Works at [**Algolia**](https://www.algolia.com/)
 
 🏠 Lives in **Berlin/Germany**.
 
-🤖 Loves to develop infrastructre with **Golang** and **AWS**. 
+🤖 Loves to develop infrastructre with **Golang** with **Cloud Applications**. 
 
 
 [Here is the my GitHub Profile.](https://github.com/mehmetaligok)
